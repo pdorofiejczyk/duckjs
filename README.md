@@ -1,3 +1,5 @@
+![Duckjs](http://i2.kym-cdn.com/entries/icons/original/000/003/549/1307920884001.jpg)
+
 # Duckjs #
 ### Typing duck simple as fuck ###
 
