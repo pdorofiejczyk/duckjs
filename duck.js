@@ -68,7 +68,7 @@ var duck = (function(){
 
   var expects = function(args, func) {
     return function() {
-      if(!test(args, arguments)) {
+      if(!check(args, arguments)) {
         throw {
           name: 'ArgumentException',
           message: 'Wrong argument types'
